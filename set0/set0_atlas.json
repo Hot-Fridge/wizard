@@ -1,0 +1,320 @@
+{
+    "frames": [
+        {
+            "filename": "rock1",
+            "frame": {
+                "w": 460,
+                "h": 436,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tree2",
+            "frame": {
+                "w": 318,
+                "h": 250,
+                "x": 0,
+                "y": 436
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tree3",
+            "frame": {
+                "w": 153,
+                "h": 120,
+                "x": 460,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "platform1",
+            "frame": {
+                "w": 151,
+                "h": 34,
+                "x": 460,
+                "y": 120
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tree4",
+            "frame": {
+                "w": 130,
+                "h": 142,
+                "x": 460,
+                "y": 154
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tree5",
+            "frame": {
+                "w": 140,
+                "h": 135,
+                "x": 460,
+                "y": 296
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "tree6",
+            "frame": {
+                "w": 84,
+                "h": 136,
+                "x": 460,
+                "y": 431
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "door",
+            "frame": {
+                "w": 74,
+                "h": 95,
+                "x": 318,
+                "y": 567
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "flower1",
+            "frame": {
+                "w": 79,
+                "h": 50,
+                "x": 318,
+                "y": 436
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bush1",
+            "frame": {
+                "w": 73,
+                "h": 39,
+                "x": 318,
+                "y": 486
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "grass2",
+            "frame": {
+                "w": 36,
+                "h": 70,
+                "x": 391,
+                "y": 486
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bush2",
+            "frame": {
+                "w": 67,
+                "h": 50,
+                "x": 392,
+                "y": 556
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "bush3",
+            "frame": {
+                "w": 62,
+                "h": 39,
+                "x": 397,
+                "y": 436
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "grass1",
+            "frame": {
+                "w": 59,
+                "h": 60,
+                "x": 544,
+                "y": 431
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "book",
+            "frame": {
+                "w": 55,
+                "h": 45,
+                "x": 544,
+                "y": 491
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "money",
+            "frame": {
+                "w": 53,
+                "h": 40,
+                "x": 318,
+                "y": 525
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pl1",
+            "frame": {
+                "w": 49,
+                "h": 50,
+                "x": 544,
+                "y": 536
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pl2",
+            "frame": {
+                "w": 49,
+                "h": 50,
+                "x": 392,
+                "y": 606
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "pl3",
+            "frame": {
+                "w": 49,
+                "h": 50,
+                "x": 441,
+                "y": 606
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "box",
+            "frame": {
+                "w": 48,
+                "h": 50,
+                "x": 490,
+                "y": 567
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "heart",
+            "frame": {
+                "w": 49,
+                "h": 46,
+                "x": 490,
+                "y": 617
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "grnd1",
+            "frame": {
+                "w": 34,
+                "h": 34,
+                "x": 539,
+                "y": 586
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "grnd2",
+            "frame": {
+                "w": 34,
+                "h": 34,
+                "x": 573,
+                "y": 586
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "grnd3",
+            "frame": {
+                "w": 34,
+                "h": 34,
+                "x": 539,
+                "y": 620
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
